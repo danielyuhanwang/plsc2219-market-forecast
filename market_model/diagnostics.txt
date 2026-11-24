@@ -1,0 +1,71 @@
+win-price + PVI map: n=333 10-fold CV MAE=1.25 pts (PVI coef 0.88 share pts/PVI pt); applied to 118 races
+vote-share ladders: 439 races parsed, combined into 394
+paths: Counter({'p+mov+ladder': 313, 'p+pvi+ladder': 81, 'p+pvi': 37, 'p+mov': 20, 'fixed': 18, 'p': 1})
+House: expected D seats 246.9, sim median 245, 80% 223-272, P(218+)=0.953
+Senate: expected D seats 52.7, sim median 53, 80% 48-57, P(51+)=0.702
+
+Senate:
+  SEN_AK_2026  Mary Peltola           vs Dan Sullivan       pred=0.512 pwin=0.70 pPM=0.725 pK=0.715 mov_mu=2.1 w=1.00 
+  SEN_AL_2026  Everett Wess           vs Barry Moore        pred=0.400 pwin=0.01 pPM=0.014 pK=0.015 mov_mu=-19.5 w=1.00 
+  SEN_AR_2026  Hallie Shoffner        vs Tom Cotton         pred=0.422 pwin=0.06 pPM=0.037 pK=0.044 mov_mu=-15.4 w=1.00 
+  SEN_CO_2026  John Hickenlooper      vs Mark Baisley       pred=0.619 pwin=1.00 pPM=0.992 pK=0.985 mov_mu=22.9 w=1.00 
+  SEN_DE_2026  Chris Coons            vs Michael Katz       pred=0.658 pwin=1.00 pPM=0.987 pK=0.985 mov_mu=30.5 w=1.00 
+  SEN_FL_2026  Angela Nixon           vs Ashley Moody       pred=0.474 pwin=0.18 pPM=0.115 pK=0.145 mov_mu=-4.6 w=1.00 
+  SEN_GA_2026  Jon Ossoff             vs Mike Collins       pred=0.560 pwin=1.00 pPM=0.97 pK=0.966 mov_mu=11.7 w=1.00 
+  SEN_IA_2026  Josh Turek             vs Ashley Hinson      pred=0.498 pwin=0.48 pPM=0.48 pK=0.475 mov_mu=-0.3 w=1.00 
+  SEN_ID_2026  Todd Achilles          vs Jim Risch          pred=0.408 pwin=0.04 pPM=0.033 pK=0.04 mov_mu=None w=0.00 mov skipped (n=10, sum=1.68, vol=19582)
+  SEN_IL_2026  Juliana Stratton       vs Don Tracy          pred=0.603 pwin=1.00 pPM=0.993 pK=0.984 mov_mu=20.0 w=1.00 
+  SEN_KS_2026  Adam Hamilton          vs Roger Marshall     pred=0.505 pwin=0.57 pPM=0.605 pK=0.595 mov_mu=0.9 w=1.00 
+  SEN_KY_2026  Charles Booker         vs Andy Barr          pred=0.413 pwin=0.01 pPM=0.04 pK=None mov_mu=-16.8 w=1.00 
+  SEN_LA_2026  Jamie Davis            vs Julia Letlow       pred=0.454 pwin=0.12 pPM=0.13 pK=0.041 mov_mu=-6.5 w=0.62 
+  SEN_MA_2026  Ed Markey              vs John Deaton        pred=0.662 pwin=1.00 pPM=0.994 pK=0.987 mov_mu=31.5 w=1.00 
+  SEN_ME_2026  Troy Jackson           vs Susan Collins      pred=0.513 pwin=0.68 pPM=0.725 pK=0.725 mov_mu=2.5 w=1.00 
+  SEN_MI_2026  Abdul El-Sayed         vs Mike Rogers        pred=0.520 pwin=0.78 pPM=0.785 pK=0.775 mov_mu=4.0 w=1.00 
+  SEN_MN_2026  Peggy Flanagan         vs Michele Tafoya     pred=0.541 pwin=0.94 pPM=0.93 pK=0.919 mov_mu=8.0 w=1.00 
+  SEN_MS_2026  Scott Colom            vs Cindy Hyde-Smith   pred=0.466 pwin=0.14 pPM=0.135 pK=0.135 mov_mu=None w=0.00 mov skipped (n=8, sum=0.73, vol=28552)
+  SEN_MT_2026  Alani Bankhead; Seth B vs Kurt Alme          pred=0.441 pwin=0.00 pPM=0.092 pK=0.107 mov_mu=-8.6 w=0.00 
+  SEN_NC_2026  Roy Cooper             vs Michael Whatley    pred=0.579 pwin=1.00 pPM=0.979 pK=0.97 mov_mu=15.4 w=1.00 
+  SEN_NE_2026  Dan Osborn             vs Pete Ricketts      pred=0.479 pwin=0.33 pPM=0.285 pK=0.304 mov_mu=-1.4 w=0.26 
+  SEN_NH_2026  Chris Pappas           vs John E. Sununu     pred=0.541 pwin=0.91 pPM=0.945 pK=0.93 mov_mu=7.9 w=1.00 
+  SEN_NJ_2026  Cory Booker            vs Justin Murphy      pred=0.609 pwin=0.97 pPM=0.989 pK=0.985 mov_mu=21.0 w=1.00 
+  SEN_NM_2026  Ben Ray Luján          vs Larry Marker       pred=0.603 pwin=1.00 pPM=0.995 pK=0.987 mov_mu=19.8 w=1.00 
+  SEN_OH_2026  Sherrod Brown          vs Jon Husted         pred=0.516 pwin=0.70 pPM=0.725 pK=0.705 mov_mu=3.2 w=1.00 
+  SEN_OK_2026  N'Kiyla Thomas         vs Kevin Hern         pred=0.381 pwin=0.00 pPM=0.011 pK=0.019 mov_mu=-23.1 w=1.00 
+  SEN_OR_2026  Jeff Merkley           vs David Brock Smith  pred=0.626 pwin=1.00 pPM=0.989 pK=0.985 mov_mu=24.5 w=1.00 
+  SEN_RI_2026  Jack Reed              vs Raymond McKay      pred=0.666 pwin=1.00 pPM=0.992 pK=0.988 mov_mu=32.2 w=1.00 
+  SEN_SC_2026  Annie Andrews          vs Darline Graham Nor pred=0.488 pwin=0.29 pPM=0.295 pK=0.312 mov_mu=-2.4 w=1.00 
+  SEN_SD_2026  Brian Bengs            vs Mike Rounds        pred=0.420 pwin=0.05 pPM=0.052 pK=0.055 mov_mu=None w=0.00 mov skipped (n=10, sum=1.98, vol=33055)
+  SEN_TN_2026  Marquita Bradshaw      vs Bill Hagerty       pred=0.388 pwin=0.00 pPM=0.019 pK=0.025 mov_mu=-22.1 w=1.00 
+  SEN_TX_2026  James Talarico         vs Ken Paxton         pred=0.515 pwin=0.78 pPM=0.73 pK=0.725 mov_mu=3.3 w=0.89 
+  SEN_VA_2026  Mark Warner            vs Bert Mizusawa      pred=0.614 pwin=1.00 pPM=0.992 pK=0.988 mov_mu=21.9 w=1.00 
+  SEN_WV_2026  Rachel Fetty Anderson  vs Shelley Moore Capi pred=0.328 pwin=0.00 pPM=0.015 pK=0.014 mov_mu=-33.4 w=1.00 
+  SEN_WY_2026  James Byrd             vs Harriet Hageman    pred=0.334 pwin=0.00 pPM=0.011 pK=0.011 mov_mu=-32.1 w=1.00 
+
+Closest 25 House races:
+  HOU_SC_01_2026  pred=0.498 pwin=0.47 pPM=0.5 pK=0.49 share_p=0.49 share_mov=0.498 w=1.00
+  HOU_MI_04_2026  pred=0.503 pwin=0.55 pPM=0.595 pK=0.615 share_p=0.498 share_mov=0.503 w=0.81
+  HOU_CO_05_2026  pred=0.497 pwin=0.47 pPM=0.435 pK=0.448 share_p=0.487 share_mov=0.497 w=1.00
+  HOU_AZ_02_2026  pred=0.497 pwin=0.48 pPM=0.45 pK=0.425 share_p=0.485 share_mov=0.498 w=1.00
+  HOU_PA_01_2026  pred=0.504 pwin=0.54 pPM=0.555 pK=0.54 share_p=0.494 share_mov=0.503 w=1.00
+  HOU_WI_01_2026  pred=0.496 pwin=0.45 pPM=0.505 pK=0.495 share_p=0.49 share_mov=0.496 w=1.00
+  HOU_NC_03_2026  pred=0.496 pwin=0.50 pPM=0.455 pK=0.445 share_p=0.487 share_mov=0.504 w=0.52
+  HOU_KY_06_2026  pred=0.505 pwin=0.56 pPM=0.56 pK=0.55 share_p=0.494 share_mov=0.505 w=1.00
+  HOU_ME_02_2026  pred=0.505 pwin=0.45 pPM=0.48 pK=0.447 share_p=0.487 share_mov=None w=0.00
+  HOU_AL_02_2026  pred=0.494 pwin=0.44 pPM=0.462 pK=0.435 share_p=0.487 share_mov=None w=0.00
+  HOU_CO_04_2026  pred=0.494 pwin=0.43 pPM=0.37 pK=0.381 share_p=0.482 share_mov=0.497 w=0.83
+  HOU_MT_01_2026  pred=0.507 pwin=0.59 pPM=0.595 pK=0.577 share_p=0.496 share_mov=0.507 w=1.00
+  HOU_MN_01_2026  pred=0.492 pwin=0.43 pPM=0.37 pK=0.399 share_p=0.483 share_mov=0.493 w=1.00
+  HOU_CO_03_2026  pred=0.492 pwin=0.44 pPM=0.38 pK=0.382 share_p=0.482 share_mov=0.498 w=0.66
+  HOU_NV_02_2026  pred=0.492 pwin=0.40 pPM=0.357 pK=0.375 share_p=0.481 share_mov=0.493 w=1.00
+  HOU_MO_02_2026  pred=0.492 pwin=0.44 pPM=0.405 pK=0.369 share_p=0.482 share_mov=0.497 w=0.69
+  HOU_OH_15_2026  pred=0.491 pwin=0.39 pPM=0.383 pK=0.372 share_p=0.481 share_mov=0.491 w=1.00
+  HOU_FL_27_2026  pred=0.491 pwin=0.40 pPM=0.427 pK=0.405 share_p=0.484 share_mov=0.491 w=1.00
+  HOU_FL_07_2026  pred=0.491 pwin=0.35 pPM=0.357 pK=0.345 share_p=0.479 share_mov=0.491 w=1.00
+  HOU_NY_17_2026  pred=0.511 pwin=0.63 pPM=0.655 pK=0.615 share_p=0.499 share_mov=0.511 w=1.00
+  HOU_TX_23_2026  pred=0.489 pwin=0.45 pPM=0.5 pK=0.485 share_p=0.49 share_mov=0.495 w=1.00
+  HOU_NY_21_2026  pred=0.488 pwin=0.40 pPM=0.345 pK=0.342 share_p=0.479 share_mov=0.489 w=0.93
+  HOU_NC_13_2026  pred=0.488 pwin=0.39 pPM=0.448 pK=0.435 share_p=0.486 share_mov=0.489 w=0.93
+  HOU_FL_13_2026  pred=0.488 pwin=0.36 pPM=0.355 pK=0.353 share_p=0.48 share_mov=0.488 w=1.00
+  HOU_NC_09_2026  pred=0.487 pwin=0.34 pPM=0.335 pK=0.345 share_p=0.478 share_mov=0.487 w=1.00
+
+MOV notes (skipped): 105

@@ -1,0 +1,58 @@
+slug,kind,election_date,p_t2,p_t1,p_t7,label_share,volume,market
+delaware-governor-election-winner,gov,2024-11-05,0.971,0.971,0.975,0.5720000000000001,123556,Will a Democrat win Delaware Governor Election?
+new-jersey-governor-election-winner-2025,gov,2025-11-04,0.835,0.855,0.875,0.5670000000000001,13718324,Will Mikie Sherrill win the New Jersey Governor Election in 2025
+vermont-governor-election-winner,gov,2024-11-05,0.0055,0.0095,0.012,0.243,105736,Will a Democrat win Vermont Governor Election?
+virginia-governor-election-winner-2025,gov,2025-11-04,0.9755,0.978,0.9655,0.5760000000000001,3162738,Will Abigail Spanberger win the Virginia Governor Election in 2025
+ak-1-election-peltola-d-vs-begich-r,house24,2024-11-05,0.35,0.42,0.5,0.49479999999999996,281025,AK-1 election: Peltola (D) vs. Begich (R)
+az-01-election-shah-d-vs-schweikert-r,house24,2024-11-05,0.37,0.395,0.355,0.48090000000000005,15945,AZ-01 election: Shah (D) vs. Schweikert (R)
+az-06-election-engel-d-vs-ciscomani-r,house24,2024-11-05,0.38,0.38,0.38,0.48710000000000003,101149,AZ-06 election: Engel (D) vs. Ciscomani (R)
+ca-13-election-gray-d-vs-duarte-r,house24,2024-11-05,0.64,0.61,0.61,0.5004,580704,CA-13 election: Gray (D) vs. Duarte (R)
+ca-13-election-rollins-d-vs-calvert-r,house24,2024-11-05,0.415,0.445,0.38,0.48310000000000003,272559,CA-41 election: Rollins (D) vs. Calvert (R)
+ca-22-election-salas-d-vs-valadao-r,house24,2024-11-05,0.565,0.605,0.5,0.4658,176272,CA-22 election: Salas (D) vs. Valadao (R)
+ca-27-election-whitesides-d-vs-garcia-r,house24,2024-11-05,0.465,0.485,0.405,0.5133,388669,CA-27 election: Whitesides (D) vs. Garcia (R)
+ca-45-election-tran-d-vs-steel-r,house24,2024-11-05,0.445,0.43,,0.501,416881,CA-45 election: Tran (D) vs. Steel (R)
+ca-47-election-min-d-vs-baugh-r,house24,2024-11-05,0.595,0.56,,0.5144,14200,CA-47 election: Min (D) vs. Baugh (R)
+fl-13-election-fox-d-vs-luna-r,house24,2024-11-05,0.2,0.215,0.17,0.4518,33639,FL-13 election: Fox (D) vs. Luna (R)
+ia-01-election-bohannan-d-vs-miller-meeks-r,house24,2024-11-05,0.75,0.67,0.475,0.499,90658,IA-01 election: Bohannan (D) vs. Miller-Meeks (R)
+ia-03-election-baccam-d-vs-nunn-r,house24,2024-11-05,0.49,0.545,0.24,0.4808,17092,IA-03 election: Baccam (D) vs. Nunn (R)
+nj-07-election-altman-d-vs-kean-r,house24,2024-11-05,0.28,0.275,0.29,0.4725,446032,NJ-07 election: Altman (D) vs. Kean (R)
+ny-04-election-jones-d-vs-desposito-r,house24,2024-11-05,0.81,0.745,0.675,0.5115,34727,NY-04 election: Gillen (D) vs. D'Esposito (R)
+ny-17-election-jones-d-vs-lawler-r,house24,2024-11-05,0.355,0.215,0.34,0.4678,33002,NY-17 election: Jones (D) vs. Lawler (R)
+ny-19-election-jones-d-vs-molinaro-r,house24,2024-11-05,0.58,0.59,0.58,0.5111,7202,NY-19 election: Riley (D) vs. Molinaro (R)
+or-05-election-bynum-d-vs-chavez-deremer-r,house24,2024-11-05,0.655,0.58,0.55,0.5146999999999999,30256,OR-05 election: Bynum (D) vs. Chavez-DeRemer (R)
+pa-10-election-stelson-d-vs-perry-r,house24,2024-11-05,0.56,0.625,0.405,0.49369999999999997,17648,PA-10 election: Stelson (D) vs. Perry (R)
+wa-03-house-race-perez-d-vs-kent-r,house24,2024-11-05,0.44,0.46,0.525,0.5195000000000001,283277,WA-03 election: Glusenkamp Perez (D) vs. Kent (R)
+arizona-us-senate-election-winner,senate24,2024-11-05,0.76,0.77,0.79,0.5123,19995784,Will a Democrat win Arizona US Senate Election?
+california-us-senate-election-winner,senate24,2024-11-05,0.983,0.9795,0.983,0.5887,124600,Will a Democrat win California US Senate Election?
+connecticut-us-senate-election-winner,senate24,2024-11-05,0.984,0.984,0.976,0.596,175290,Will a Democrat win Connecticut US Senate Election?
+delaware-us-senate-election-winner,senate24,2024-11-05,0.9735,0.9755,0.9735,0.5889,165836,Will a Democrat win Delaware US Senate Election?
+florida-us-senate-election-winner,senate24,2024-11-05,0.08,0.095,0.075,0.435,1338228,Will a Democrat win Florida US Senate Election?
+hawaii-us-senate-election-winner,senate24,2024-11-05,0.9935,0.9925,0.99,0.6695,492183,Will a Democrat win Hawaii US Senate Election?
+indiana-us-senate-election-winner,senate24,2024-11-05,0.03,0.0305,0.0125,0.39799999999999996,75207,Will a Democrat win Indiana US Senate Election?
+maryland-us-senate-election-winner,senate24,2024-11-05,0.915,0.925,0.905,0.5605,801653,Will a Democrat win Maryland US Senate Election?
+massachusetts-us-senate-election-winner,senate24,2024-11-05,0.977,0.974,0.972,0.5992000000000001,731223,Will a Democrat win Massachusetts US Senate Election?
+michigan-us-senate-election-winner,senate24,2024-11-05,0.775,0.78,0.67,0.5018,1755976,Will a Democrat win Michigan US Senate Election?
+minnesota-us-senate-election-winner,senate24,2024-11-05,0.9825,0.9825,0.9635,0.5811999999999999,330643,Will a Democrat win Minnesota US Senate Election?
+mississippi-us-senate-election-winner,senate24,2024-11-05,0.002,0.004,0.003,0.37189999999999995,284540,Will a Democrat win Mississippi US Senate Election?
+missouri-us-senate-election-winner,senate24,2024-11-05,0.038,0.0465,0.025,0.42950000000000005,244220,Will a Democrat win Missouri US Senate Election?
+montana-us-senate-election-winner,senate24,2024-11-05,0.145,0.185,0.165,0.4636,4008567,Will a Democrat win Montana US Senate Election?
+nebraska-us-senate-election-winner,senate24,2024-11-05,0.193,0.1955,0.2355,0.46649999999999997,2471671,Will a candidate from another party win Nebraska US Senate Election?
+nevada-us-senate-election-winner,senate24,2024-11-05,0.82,0.8,0.745,0.5086999999999999,2891920,Will a Democrat win Nevada US Senate Election?
+new-jersey-us-senate-election-winner,senate24,2024-11-05,0.96,0.9595,0.92,0.5493,448187,Will a Democrat win New Jersey US Senate Election?
+new-mexico-us-senate-election-winner,senate24,2024-11-05,0.945,0.945,0.94,0.5506,116993,Will a Democrat win New Mexico US Senate Election?
+new-york-us-senate-election-winner,senate24,2024-11-05,0.9745,0.9745,0.9695,0.5921,272148,Will a Democrat win New York US Senate Election?
+north-dakota-us-senate-election-winner,senate24,2024-11-05,0.025,0.025,0.0135,0.3348,50231,Will a Democrat win North Dakota US Senate Election?
+ohio-us-senate-election-winner,senate24,2024-11-05,0.525,0.495,0.385,0.4813,15455997,Will a Democrat win Ohio US Senate Election?
+pennsylvania-us-senate-election-winner,senate24,2024-11-05,0.76,0.775,0.685,0.4989,5484459,Will a Democrat win Pennsylvania US Senate Election?
+rhode-island-us-senate-election-winner,senate24,2024-11-05,0.9855,0.985,0.9815,0.6004999999999999,111270,Will a Democrat win Rhode Island US Senate Election?
+tennessee-us-senate-election-winner,senate24,2024-11-05,0.0065,0.0065,0.0075,0.34869999999999995,140004,Will a Democrat win Tennessee US Senate Election?
+texas-us-senate-election-winner,senate24,2024-11-05,0.165,0.225,0.185,0.45649999999999996,1558467,Will a Democrat win Texas US Senate Election?
+utah-us-senate-election-winner,senate24,2024-11-05,0.011,0.0125,0.0125,0.3368,108624,Will a Democrat win Utah US Senate Election?
+virginia-us-senate-election-winner,senate24,2024-11-05,0.96,0.955,0.935,0.5448,193806,Will a Democrat win Virginia US Senate Election?
+washington-us-senate-election-winner,senate24,2024-11-05,0.981,0.9825,0.9755,0.5925,60779,Will a Democrat win Washington US Senate Election?
+west-virginia-us-senate-election-winner,senate24,2024-11-05,0.007,0.007,0.008,0.2876,107206,Will a Democrat win West Virginia US Senate Election?
+wisconsin-us-senate-election-winner,senate24,2024-11-05,0.725,0.74,0.65,0.5043,1021289,Will a Democrat win Wisconsin US Senate Election?
+wyoming-us-senate-election-winner,senate24,2024-11-05,0.0055,0.0055,0.0065,0.24309999999999998,85314,Will a Democrat win Wyoming US Senate Election?
+fl-1-special-election-valimont-d-vs-patronis-r,special25,2025-04-01,0.0225,0.026,0.0015,0.426,351783,FL-1 special election: Valimont (D) vs. Patronis (R)
+fl-6-special-election-weil-d-vs-fine-r,special25,2025-04-01,0.108,0.0975,0.0195,0.43,401962,FL-6 special election: Weil (D) vs. Fine (R)
+wisconsin-supreme-court-election-susan-crawford-vs-brad-schimel,special25,2025-04-01,0.835,0.845,0.81,0.55,3932763,Wisconsin Supreme Court election: Susan Crawford vs. Brad Schimel 

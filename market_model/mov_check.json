@@ -1,0 +1,20 @@
+[
+ {
+  "slug": "fl-6-special-election-randy-fine-margin-of-victory",
+  "mu": -7.555993721783938,
+  "sd": 4.5538050886090655,
+  "actual_margin": -14.0
+ },
+ {
+  "slug": "fl-1-special-election-jimmy-patronis-margin-of-victory",
+  "mu": -17.67878333034379,
+  "sd": 5.053468066056463,
+  "actual_margin": -14.799999999999997
+ },
+ {
+  "slug": "tn-07-special-election-margin-of-victory",
+  "mu": -4.9497142504707075,
+  "sd": 4.925967401899845,
+  "actual_margin": -9.200000000000003
+ }
+]

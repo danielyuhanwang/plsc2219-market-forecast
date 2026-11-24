@@ -1,0 +1,10 @@
+# Course-provided data and materials (not ours to publish)
+data (1)/
+plsc2219-forecast-template-main/
+plsc2219-forecast-template-main.zip
+*.webloc
+
+# Local tooling and OS files
+.claude/
+.DS_Store
+__pycache__/
